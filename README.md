@@ -118,7 +118,7 @@ L'objectif est de mettre en place un environnement centralisé permettant la ges
 
 Les captures d'écran documentent les différentes étapes de configuration, les tests réalisés et les résultats obtenus.
 
-Consulter le dossier `Screenshots/` pour les preuves techniques.
+Consulter le dossier `screenchots/` pour les preuves techniques.
 
 ## Compétences développées
 
